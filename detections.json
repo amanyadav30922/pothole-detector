@@ -1,0 +1,1369 @@
+[
+  {
+    "image": "potholes176.png",
+    "lat": 28.540616084083144,
+    "lon": 77.39336737993351,
+    "city": "Noida",
+    "potholes": 1,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:42"
+  },
+  {
+    "image": "potholes132.png",
+    "lat": 28.418645184020658,
+    "lon": 77.31845127268177,
+    "city": "Faridabad",
+    "potholes": 2,
+    "severity": "Medium",
+    "timestamp": "2026-06-28 18:03:42"
+  },
+  {
+    "image": "potholes270.png",
+    "lat": 28.531702951386386,
+    "lon": 77.3955966349652,
+    "city": "Noida",
+    "potholes": 4,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:42"
+  },
+  {
+    "image": "potholes332.png",
+    "lat": 28.458942854309054,
+    "lon": 77.01861402416137,
+    "city": "Gurugram",
+    "potholes": 4,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:42"
+  },
+  {
+    "image": "potholes285.png",
+    "lat": 28.980823933990433,
+    "lon": 77.70920846803084,
+    "city": "Meerut",
+    "potholes": 1,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:42"
+  },
+  {
+    "image": "potholes475.png",
+    "lat": 28.678532127355414,
+    "lon": 77.45334019553106,
+    "city": "Ghaziabad",
+    "potholes": 1,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:42"
+  },
+  {
+    "image": "potholes25.png",
+    "lat": 28.40014559176043,
+    "lon": 77.32616929791402,
+    "city": "Faridabad",
+    "potholes": 4,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:42"
+  },
+  {
+    "image": "potholes30.png",
+    "lat": 28.60576543728705,
+    "lon": 77.21580182433111,
+    "city": "New Delhi",
+    "potholes": 2,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:42"
+  },
+  {
+    "image": "potholes318.png",
+    "lat": 28.616137941696284,
+    "lon": 77.21556126556808,
+    "city": "New Delhi",
+    "potholes": 2,
+    "severity": "Medium",
+    "timestamp": "2026-06-28 18:03:42"
+  },
+  {
+    "image": "potholes362.png",
+    "lat": 28.45437821753774,
+    "lon": 77.02310408725495,
+    "city": "Gurugram",
+    "potholes": 10,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:42"
+  },
+  {
+    "image": "potholes478.png",
+    "lat": 28.46822134183005,
+    "lon": 77.50535021481242,
+    "city": "Greater Noida",
+    "potholes": 1,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:43"
+  },
+  {
+    "image": "potholes433.png",
+    "lat": 28.675266901082924,
+    "lon": 77.44664988787818,
+    "city": "Ghaziabad",
+    "potholes": 7,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:43"
+  },
+  {
+    "image": "potholes291.png",
+    "lat": 27.168524319076607,
+    "lon": 78.01796443107129,
+    "city": "Agra",
+    "potholes": 1,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:43"
+  },
+  {
+    "image": "potholes20.png",
+    "lat": 27.168881156918623,
+    "lon": 78.00912534492181,
+    "city": "Agra",
+    "potholes": 3,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:43"
+  },
+  {
+    "image": "potholes330.png",
+    "lat": 28.475348818226568,
+    "lon": 77.51028933726583,
+    "city": "Greater Noida",
+    "potholes": 4,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:43"
+  },
+  {
+    "image": "potholes143.png",
+    "lat": 28.678476770919477,
+    "lon": 77.45586371255924,
+    "city": "Ghaziabad",
+    "potholes": 1,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:43"
+  },
+  {
+    "image": "potholes523.png",
+    "lat": 28.407799780525508,
+    "lon": 77.31972573723166,
+    "city": "Faridabad",
+    "potholes": 2,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:43"
+  },
+  {
+    "image": "potholes164.png",
+    "lat": 28.98084093695516,
+    "lon": 77.70124214310204,
+    "city": "Meerut",
+    "potholes": 1,
+    "severity": "Medium",
+    "timestamp": "2026-06-28 18:03:43"
+  },
+  {
+    "image": "potholes498.png",
+    "lat": 28.529287826571085,
+    "lon": 77.38473459056512,
+    "city": "Noida",
+    "potholes": 4,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:43"
+  },
+  {
+    "image": "potholes277.png",
+    "lat": 28.408430619840185,
+    "lon": 77.30959648722391,
+    "city": "Faridabad",
+    "potholes": 15,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:43"
+  },
+  {
+    "image": "potholes389.png",
+    "lat": 28.543035407416454,
+    "lon": 77.39946762031893,
+    "city": "Noida",
+    "potholes": 2,
+    "severity": "Medium",
+    "timestamp": "2026-06-28 18:03:43"
+  },
+  {
+    "image": "potholes97.png",
+    "lat": 28.482363462427156,
+    "lon": 77.5124616487964,
+    "city": "Greater Noida",
+    "potholes": 2,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:43"
+  },
+  {
+    "image": "potholes245.png",
+    "lat": 28.99125730462451,
+    "lon": 77.70689147878224,
+    "city": "Meerut",
+    "potholes": 2,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:43"
+  },
+  {
+    "image": "potholes654.png",
+    "lat": 28.67618971930373,
+    "lon": 77.46170077934853,
+    "city": "Ghaziabad",
+    "potholes": 1,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:43"
+  },
+  {
+    "image": "potholes280.png",
+    "lat": 28.98609390021491,
+    "lon": 77.70541126213263,
+    "city": "Meerut",
+    "potholes": 3,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:43"
+  },
+  {
+    "image": "potholes481.png",
+    "lat": 28.45114745976393,
+    "lon": 77.02885566210081,
+    "city": "Gurugram",
+    "potholes": 2,
+    "severity": "Medium",
+    "timestamp": "2026-06-28 18:03:43"
+  },
+  {
+    "image": "potholes599.png",
+    "lat": 27.178441494034253,
+    "lon": 78.00480540956335,
+    "city": "Agra",
+    "potholes": 5,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:43"
+  },
+  {
+    "image": "potholes283.png",
+    "lat": 28.664060712441238,
+    "lon": 77.45842978441581,
+    "city": "Ghaziabad",
+    "potholes": 2,
+    "severity": "Medium",
+    "timestamp": "2026-06-28 18:03:43"
+  },
+  {
+    "image": "potholes241.png",
+    "lat": 28.47850666230626,
+    "lon": 77.50144120386163,
+    "city": "Greater Noida",
+    "potholes": 1,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:43"
+  },
+  {
+    "image": "potholes83.png",
+    "lat": 28.532150722984394,
+    "lon": 77.39731826193068,
+    "city": "Noida",
+    "potholes": 2,
+    "severity": "Medium",
+    "timestamp": "2026-06-28 18:03:43"
+  },
+  {
+    "image": "potholes361.png",
+    "lat": 28.480062370196933,
+    "lon": 77.51110645239021,
+    "city": "Greater Noida",
+    "potholes": 1,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:43"
+  },
+  {
+    "image": "potholes208.png",
+    "lat": 28.66010468135731,
+    "lon": 77.45527732073579,
+    "city": "Ghaziabad",
+    "potholes": 2,
+    "severity": "Medium",
+    "timestamp": "2026-06-28 18:03:43"
+  },
+  {
+    "image": "potholes647.png",
+    "lat": 28.464933935893242,
+    "lon": 77.50669999819823,
+    "city": "Greater Noida",
+    "potholes": 5,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:43"
+  },
+  {
+    "image": "potholes37.png",
+    "lat": 28.472224188186456,
+    "lon": 77.50140279880671,
+    "city": "Greater Noida",
+    "potholes": 2,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:43"
+  },
+  {
+    "image": "potholes379.png",
+    "lat": 28.465127840752228,
+    "lon": 77.4944327301971,
+    "city": "Greater Noida",
+    "potholes": 1,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:43"
+  },
+  {
+    "image": "potholes5.png",
+    "lat": 28.539862266529187,
+    "lon": 77.39058467307845,
+    "city": "Noida",
+    "potholes": 3,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:43"
+  },
+  {
+    "image": "potholes633.png",
+    "lat": 28.622639383172892,
+    "lon": 77.19945565151338,
+    "city": "New Delhi",
+    "potholes": 2,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:43"
+  },
+  {
+    "image": "potholes521.png",
+    "lat": 28.986911999419554,
+    "lon": 77.71311805311143,
+    "city": "Meerut",
+    "potholes": 1,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:43"
+  },
+  {
+    "image": "potholes17.png",
+    "lat": 28.468816585426325,
+    "lon": 77.50693851439671,
+    "city": "Greater Noida",
+    "potholes": 1,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:43"
+  },
+  {
+    "image": "potholes112.png",
+    "lat": 28.458221372959063,
+    "lon": 77.0178208487844,
+    "city": "Gurugram",
+    "potholes": 2,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:43"
+  },
+  {
+    "image": "potholes411.png",
+    "lat": 27.167487574141695,
+    "lon": 78.00011842482378,
+    "city": "Agra",
+    "potholes": 12,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:44"
+  },
+  {
+    "image": "potholes396.png",
+    "lat": 28.97848711580934,
+    "lon": 77.70357110602623,
+    "city": "Meerut",
+    "potholes": 8,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:44"
+  },
+  {
+    "image": "potholes94.png",
+    "lat": 27.183466531303868,
+    "lon": 78.01646964123991,
+    "city": "Agra",
+    "potholes": 2,
+    "severity": "Medium",
+    "timestamp": "2026-06-28 18:03:44"
+  },
+  {
+    "image": "potholes200.png",
+    "lat": 28.539453941415644,
+    "lon": 77.3850682937155,
+    "city": "Noida",
+    "potholes": 2,
+    "severity": "Medium",
+    "timestamp": "2026-06-28 18:03:44"
+  },
+  {
+    "image": "potholes28.png",
+    "lat": 28.6196729658002,
+    "lon": 77.20216417259655,
+    "city": "New Delhi",
+    "potholes": 2,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:44"
+  },
+  {
+    "image": "potholes226.png",
+    "lat": 28.532346250821572,
+    "lon": 77.38601374678571,
+    "city": "Noida",
+    "potholes": 2,
+    "severity": "Medium",
+    "timestamp": "2026-06-28 18:03:44"
+  },
+  {
+    "image": "potholes397.png",
+    "lat": 27.18001211644036,
+    "lon": 77.9983640751707,
+    "city": "Agra",
+    "potholes": 1,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:44"
+  },
+  {
+    "image": "potholes225.png",
+    "lat": 28.992501961047815,
+    "lon": 77.7138960938854,
+    "city": "Meerut",
+    "potholes": 3,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:44"
+  },
+  {
+    "image": "potholes278.png",
+    "lat": 28.411878669756227,
+    "lon": 77.31557284485663,
+    "city": "Faridabad",
+    "potholes": 1,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:44"
+  },
+  {
+    "image": "potholes631.png",
+    "lat": 28.401968255418627,
+    "lon": 77.32161645515747,
+    "city": "Faridabad",
+    "potholes": 1,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:44"
+  },
+  {
+    "image": "potholes408.png",
+    "lat": 27.181531487548213,
+    "lon": 78.00481833108947,
+    "city": "Agra",
+    "potholes": 1,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:44"
+  },
+  {
+    "image": "potholes447.png",
+    "lat": 28.614786389953032,
+    "lon": 77.20169675213697,
+    "city": "New Delhi",
+    "potholes": 2,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:44"
+  },
+  {
+    "image": "potholes526.png",
+    "lat": 27.17374451123031,
+    "lon": 78.00385755829713,
+    "city": "Agra",
+    "potholes": 7,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:44"
+  },
+  {
+    "image": "potholes477.png",
+    "lat": 28.46130555372639,
+    "lon": 77.03443887082841,
+    "city": "Gurugram",
+    "potholes": 2,
+    "severity": "Medium",
+    "timestamp": "2026-06-28 18:03:44"
+  },
+  {
+    "image": "potholes316.png",
+    "lat": 28.539812387006027,
+    "lon": 77.38876034470626,
+    "city": "Noida",
+    "potholes": 3,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:44"
+  },
+  {
+    "image": "potholes13.png",
+    "lat": 28.991078055419152,
+    "lon": 77.69801446213745,
+    "city": "Meerut",
+    "potholes": 2,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:44"
+  },
+  {
+    "image": "potholes145.png",
+    "lat": 28.67317165377951,
+    "lon": 77.44700159558049,
+    "city": "Ghaziabad",
+    "potholes": 4,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:44"
+  },
+  {
+    "image": "potholes426.png",
+    "lat": 28.671947988022588,
+    "lon": 77.45137296140646,
+    "city": "Ghaziabad",
+    "potholes": 1,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:44"
+  },
+  {
+    "image": "potholes302.png",
+    "lat": 28.97513090956245,
+    "lon": 77.71383376384703,
+    "city": "Meerut",
+    "potholes": 3,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:44"
+  },
+  {
+    "image": "potholes10.png",
+    "lat": 28.98994371435973,
+    "lon": 77.71058012068373,
+    "city": "Meerut",
+    "potholes": 1,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:44"
+  },
+  {
+    "image": "potholes239.png",
+    "lat": 28.534407043794374,
+    "lon": 77.38618453846895,
+    "city": "Noida",
+    "potholes": 1,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:44"
+  },
+  {
+    "image": "potholes127.png",
+    "lat": 28.53442729424351,
+    "lon": 77.39869891015996,
+    "city": "Noida",
+    "potholes": 3,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:44"
+  },
+  {
+    "image": "potholes266.png",
+    "lat": 28.621577503084975,
+    "lon": 77.2088916534075,
+    "city": "New Delhi",
+    "potholes": 6,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:44"
+  },
+  {
+    "image": "potholes638.png",
+    "lat": 28.41565473682089,
+    "lon": 77.30879713993208,
+    "city": "Faridabad",
+    "potholes": 1,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:44"
+  },
+  {
+    "image": "potholes247.png",
+    "lat": 28.978260025881017,
+    "lon": 77.71638840718911,
+    "city": "Meerut",
+    "potholes": 1,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:44"
+  },
+  {
+    "image": "potholes56.png",
+    "lat": 28.481148967874876,
+    "lon": 77.49661043503684,
+    "city": "Greater Noida",
+    "potholes": 3,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:44"
+  },
+  {
+    "image": "potholes517.png",
+    "lat": 28.611936336444252,
+    "lon": 77.21257030010484,
+    "city": "New Delhi",
+    "potholes": 3,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:44"
+  },
+  {
+    "image": "potholes216.png",
+    "lat": 28.4495678561946,
+    "lon": 77.0168858262833,
+    "city": "Gurugram",
+    "potholes": 3,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:44"
+  },
+  {
+    "image": "potholes377.png",
+    "lat": 28.623504892853312,
+    "lon": 77.21251523794656,
+    "city": "New Delhi",
+    "potholes": 4,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:44"
+  },
+  {
+    "image": "potholes656.png",
+    "lat": 28.46820919860585,
+    "lon": 77.50616719279428,
+    "city": "Greater Noida",
+    "potholes": 5,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:44"
+  },
+  {
+    "image": "potholes546.png",
+    "lat": 28.676673076478007,
+    "lon": 77.44939965486654,
+    "city": "Ghaziabad",
+    "potholes": 1,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:44"
+  },
+  {
+    "image": "potholes559.png",
+    "lat": 28.527503613781274,
+    "lon": 77.39807876219196,
+    "city": "Noida",
+    "potholes": 1,
+    "severity": "Medium",
+    "timestamp": "2026-06-28 18:03:44"
+  },
+  {
+    "image": "potholes473.png",
+    "lat": 28.987052782011233,
+    "lon": 77.69683690998475,
+    "city": "Meerut",
+    "potholes": 4,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:44"
+  },
+  {
+    "image": "potholes371.png",
+    "lat": 27.182696491133026,
+    "lon": 78.00041558797678,
+    "city": "Agra",
+    "potholes": 6,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:44"
+  },
+  {
+    "image": "potholes87.png",
+    "lat": 28.40156841108405,
+    "lon": 77.31821731056829,
+    "city": "Faridabad",
+    "potholes": 2,
+    "severity": "Medium",
+    "timestamp": "2026-06-28 18:03:44"
+  },
+  {
+    "image": "potholes461.png",
+    "lat": 28.451802186917046,
+    "lon": 77.01968880273677,
+    "city": "Gurugram",
+    "potholes": 2,
+    "severity": "Medium",
+    "timestamp": "2026-06-28 18:03:45"
+  },
+  {
+    "image": "potholes91.png",
+    "lat": 28.60474595204006,
+    "lon": 77.20311471481338,
+    "city": "New Delhi",
+    "potholes": 1,
+    "severity": "Medium",
+    "timestamp": "2026-06-28 18:03:45"
+  },
+  {
+    "image": "potholes557.png",
+    "lat": 28.41006711472194,
+    "lon": 77.3267300510834,
+    "city": "Faridabad",
+    "potholes": 3,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:45"
+  },
+  {
+    "image": "potholes476.png",
+    "lat": 28.62082719843226,
+    "lon": 77.21822405819614,
+    "city": "New Delhi",
+    "potholes": 2,
+    "severity": "Medium",
+    "timestamp": "2026-06-28 18:03:45"
+  },
+  {
+    "image": "potholes157.png",
+    "lat": 27.180947153050326,
+    "lon": 78.01615420301239,
+    "city": "Agra",
+    "potholes": 1,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:45"
+  },
+  {
+    "image": "potholes19.png",
+    "lat": 28.981948985259447,
+    "lon": 77.70715857567464,
+    "city": "Meerut",
+    "potholes": 2,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:45"
+  },
+  {
+    "image": "potholes496.png",
+    "lat": 28.666711578438747,
+    "lon": 77.44962070976628,
+    "city": "Ghaziabad",
+    "potholes": 1,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:45"
+  },
+  {
+    "image": "potholes581.png",
+    "lat": 28.528520463477278,
+    "lon": 77.38766816776061,
+    "city": "Noida",
+    "potholes": 1,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:45"
+  },
+  {
+    "image": "potholes358.png",
+    "lat": 28.46386998845543,
+    "lon": 77.02336511940054,
+    "city": "Gurugram",
+    "potholes": 2,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:45"
+  },
+  {
+    "image": "potholes343.png",
+    "lat": 28.604724058990126,
+    "lon": 77.20227721091352,
+    "city": "New Delhi",
+    "potholes": 3,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:45"
+  },
+  {
+    "image": "potholes41.png",
+    "lat": 28.406118132226883,
+    "lon": 77.3275860605342,
+    "city": "Faridabad",
+    "potholes": 1,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:45"
+  },
+  {
+    "image": "potholes261.png",
+    "lat": 28.531368140029144,
+    "lon": 77.39056129338303,
+    "city": "Noida",
+    "potholes": 4,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:45"
+  },
+  {
+    "image": "potholes230.png",
+    "lat": 28.677875081588066,
+    "lon": 77.44995759524399,
+    "city": "Ghaziabad",
+    "potholes": 1,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:45"
+  },
+  {
+    "image": "potholes364.png",
+    "lat": 28.47045341321277,
+    "lon": 77.5107111947132,
+    "city": "Greater Noida",
+    "potholes": 2,
+    "severity": "Medium",
+    "timestamp": "2026-06-28 18:03:45"
+  },
+  {
+    "image": "potholes263.png",
+    "lat": 28.407194432179427,
+    "lon": 77.30978800676478,
+    "city": "Faridabad",
+    "potholes": 1,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:45"
+  },
+  {
+    "image": "potholes460.png",
+    "lat": 27.176180093022747,
+    "lon": 78.01491696665255,
+    "city": "Agra",
+    "potholes": 3,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:45"
+  },
+  {
+    "image": "potholes223.png",
+    "lat": 28.451986496043066,
+    "lon": 77.01892016126806,
+    "city": "Gurugram",
+    "potholes": 3,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:45"
+  },
+  {
+    "image": "potholes237.png",
+    "lat": 27.17523070647088,
+    "lon": 78.00413806232439,
+    "city": "Agra",
+    "potholes": 3,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:45"
+  },
+  {
+    "image": "potholes339.png",
+    "lat": 28.54389377688863,
+    "lon": 77.39353484093614,
+    "city": "Noida",
+    "potholes": 3,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:45"
+  },
+  {
+    "image": "potholes36.png",
+    "lat": 28.990622369911456,
+    "lon": 77.71622999498231,
+    "city": "Meerut",
+    "potholes": 1,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:45"
+  },
+  {
+    "image": "potholes652.png",
+    "lat": 28.465716693545545,
+    "lon": 77.4956933913824,
+    "city": "Greater Noida",
+    "potholes": 1,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:45"
+  },
+  {
+    "image": "potholes540.png",
+    "lat": 28.66042312313092,
+    "lon": 77.44395702010662,
+    "city": "Ghaziabad",
+    "potholes": 1,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:45"
+  },
+  {
+    "image": "potholes345.png",
+    "lat": 28.98562949215159,
+    "lon": 77.70219641617068,
+    "city": "Meerut",
+    "potholes": 6,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:45"
+  },
+  {
+    "image": "potholes156.png",
+    "lat": 27.18246577538027,
+    "lon": 78.01238812737455,
+    "city": "Agra",
+    "potholes": 1,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:45"
+  },
+  {
+    "image": "potholes138.png",
+    "lat": 28.66766076147015,
+    "lon": 77.45116662912669,
+    "city": "Ghaziabad",
+    "potholes": 1,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:45"
+  },
+  {
+    "image": "potholes114.png",
+    "lat": 28.41060455973999,
+    "lon": 77.31113162224759,
+    "city": "Faridabad",
+    "potholes": 3,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:45"
+  },
+  {
+    "image": "potholes503.png",
+    "lat": 28.66637040764019,
+    "lon": 77.44507715897888,
+    "city": "Ghaziabad",
+    "potholes": 2,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:45"
+  },
+  {
+    "image": "potholes585.png",
+    "lat": 28.62196021415082,
+    "lon": 77.20803223585374,
+    "city": "New Delhi",
+    "potholes": 2,
+    "severity": "Medium",
+    "timestamp": "2026-06-28 18:03:45"
+  },
+  {
+    "image": "potholes366.png",
+    "lat": 28.66157820573108,
+    "lon": 77.45175907203205,
+    "city": "Ghaziabad",
+    "potholes": 1,
+    "severity": "Low",
+    "timestamp": "2026-06-28 18:03:45"
+  },
+  {
+    "image": "potholes645.png",
+    "lat": 28.672019945371463,
+    "lon": 77.46374080989777,
+    "city": "Ghaziabad",
+    "potholes": 1,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:45"
+  },
+  {
+    "image": "potholes636.png",
+    "lat": 28.67166830167567,
+    "lon": 77.4458925937888,
+    "city": "Ghaziabad",
+    "potholes": 3,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:45"
+  },
+  {
+    "image": "potholes553.png",
+    "lat": 27.174260639286285,
+    "lon": 78.0090278252463,
+    "city": "Agra",
+    "potholes": 1,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:45"
+  },
+  {
+    "image": "potholes99.png",
+    "lat": 28.527594925640326,
+    "lon": 77.39292480951295,
+    "city": "Noida",
+    "potholes": 4,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:45"
+  },
+  {
+    "image": "potholes220.png",
+    "lat": 27.169668040341723,
+    "lon": 78.00621813766335,
+    "city": "Agra",
+    "potholes": 1,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:45"
+  },
+  {
+    "image": "potholes372.png",
+    "lat": 28.99205313165802,
+    "lon": 77.70630811849823,
+    "city": "Meerut",
+    "potholes": 1,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:45"
+  },
+  {
+    "image": "potholes627.png",
+    "lat": 28.466170669987562,
+    "lon": 77.03656366091053,
+    "city": "Gurugram",
+    "potholes": 2,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:45"
+  },
+  {
+    "image": "potholes210.png",
+    "lat": 28.670056181473996,
+    "lon": 77.46242626809162,
+    "city": "Ghaziabad",
+    "potholes": 5,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:45"
+  },
+  {
+    "image": "potholes287.png",
+    "lat": 28.61070440630102,
+    "lon": 77.2182513292651,
+    "city": "New Delhi",
+    "potholes": 3,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:46"
+  },
+  {
+    "image": "potholes163.png",
+    "lat": 28.465862367618353,
+    "lon": 77.01730936523752,
+    "city": "Gurugram",
+    "potholes": 6,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:46"
+  },
+  {
+    "image": "potholes531.png",
+    "lat": 28.54298966518892,
+    "lon": 77.39305173429611,
+    "city": "Noida",
+    "potholes": 1,
+    "severity": "Low",
+    "timestamp": "2026-06-28 18:03:46"
+  },
+  {
+    "image": "potholes275.png",
+    "lat": 28.542346666541548,
+    "lon": 77.39265896360493,
+    "city": "Noida",
+    "potholes": 1,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:46"
+  },
+  {
+    "image": "potholes131.png",
+    "lat": 27.168027182620754,
+    "lon": 77.99979286273665,
+    "city": "Agra",
+    "potholes": 1,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:46"
+  },
+  {
+    "image": "potholes73.png",
+    "lat": 28.605227093724174,
+    "lon": 77.20160988295684,
+    "city": "New Delhi",
+    "potholes": 6,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:46"
+  },
+  {
+    "image": "potholes119.png",
+    "lat": 28.399205702799392,
+    "lon": 77.32467909371385,
+    "city": "Faridabad",
+    "potholes": 1,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:46"
+  },
+  {
+    "image": "potholes214.png",
+    "lat": 28.4667380677105,
+    "lon": 77.03261290898753,
+    "city": "Gurugram",
+    "potholes": 12,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:46"
+  },
+  {
+    "image": "potholes171.png",
+    "lat": 27.186071965433854,
+    "lon": 78.00819999385212,
+    "city": "Agra",
+    "potholes": 5,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:46"
+  },
+  {
+    "image": "potholes148.png",
+    "lat": 28.615377449549833,
+    "lon": 77.21257142713579,
+    "city": "New Delhi",
+    "potholes": 7,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:46"
+  },
+  {
+    "image": "potholes646.png",
+    "lat": 28.479339307783,
+    "lon": 77.51211561446706,
+    "city": "Greater Noida",
+    "potholes": 2,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:46"
+  },
+  {
+    "image": "potholes445.png",
+    "lat": 28.664993282767448,
+    "lon": 77.46182277439812,
+    "city": "Ghaziabad",
+    "potholes": 7,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:46"
+  },
+  {
+    "image": "potholes39.png",
+    "lat": 28.991013932343208,
+    "lon": 77.70604427126132,
+    "city": "Meerut",
+    "potholes": 16,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:46"
+  },
+  {
+    "image": "potholes15.png",
+    "lat": 28.986648598221898,
+    "lon": 77.70107142192295,
+    "city": "Meerut",
+    "potholes": 2,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:46"
+  },
+  {
+    "image": "potholes228.png",
+    "lat": 28.617039691037725,
+    "lon": 77.1990048139305,
+    "city": "New Delhi",
+    "potholes": 2,
+    "severity": "Medium",
+    "timestamp": "2026-06-28 18:03:46"
+  },
+  {
+    "image": "potholes264.png",
+    "lat": 28.53154884095592,
+    "lon": 77.39240533272243,
+    "city": "Noida",
+    "potholes": 2,
+    "severity": "Medium",
+    "timestamp": "2026-06-28 18:03:46"
+  },
+  {
+    "image": "potholes649.png",
+    "lat": 28.450812416865453,
+    "lon": 77.03379766844243,
+    "city": "Gurugram",
+    "potholes": 6,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:46"
+  },
+  {
+    "image": "potholes244.png",
+    "lat": 28.414349603111756,
+    "lon": 77.31548319454939,
+    "city": "Faridabad",
+    "potholes": 1,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:46"
+  },
+  {
+    "image": "potholes250.png",
+    "lat": 28.975745175177426,
+    "lon": 77.70921969725126,
+    "city": "Meerut",
+    "potholes": 1,
+    "severity": "Medium",
+    "timestamp": "2026-06-28 18:03:46"
+  },
+  {
+    "image": "potholes394.png",
+    "lat": 28.53027903400169,
+    "lon": 77.39558901328296,
+    "city": "Noida",
+    "potholes": 5,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:46"
+  },
+  {
+    "image": "potholes198.png",
+    "lat": 28.450610540917793,
+    "lon": 77.01731867666861,
+    "city": "Gurugram",
+    "potholes": 2,
+    "severity": "High",
+    "timestamp": "2026-06-28 18:03:46"
+  },
+  {
+    "image": "road_1.jpg",
+    "lat": 28.69038453706074,
+    "lon": 76.9514784035643,
+    "city": "Unknown",
+    "potholes": 1,
+    "severity": "Medium",
+    "confidence": 0.9,
+    "timestamp": "2026-07-03 00:42:45"
+  },
+  {
+    "image": "road_1.jpg",
+    "lat": 28.6906842261982,
+    "lon": 76.95148097354163,
+    "city": "Unknown",
+    "potholes": 1,
+    "severity": "Low",
+    "confidence": 0.88,
+    "timestamp": "2026-07-03 00:42:45"
+  },
+  {
+    "image": "road_1.jpg",
+    "lat": 28.69085672247291,
+    "lon": 76.95157557686008,
+    "city": "Unknown",
+    "potholes": 1,
+    "severity": "Low",
+    "confidence": 0.87,
+    "timestamp": "2026-07-03 00:42:45"
+  },
+  {
+    "image": "road_1.jpg",
+    "lat": 28.690785311844238,
+    "lon": 76.95156160233738,
+    "city": "Unknown",
+    "potholes": 1,
+    "severity": "Low",
+    "confidence": 0.87,
+    "timestamp": "2026-07-03 00:42:45"
+  },
+  {
+    "image": "road_1.jpg",
+    "lat": 28.690764017195814,
+    "lon": 76.95131738424467,
+    "city": "Unknown",
+    "potholes": 1,
+    "severity": "Low",
+    "confidence": 0.8,
+    "timestamp": "2026-07-03 00:42:45"
+  },
+  {
+    "image": "road_1.jpg",
+    "lat": 28.690816670470685,
+    "lon": 76.95146447870037,
+    "city": "Unknown",
+    "potholes": 1,
+    "severity": "Low",
+    "confidence": 0.8,
+    "timestamp": "2026-07-03 00:42:45"
+  },
+  {
+    "image": "road_1.jpg",
+    "lat": 28.690855212088056,
+    "lon": 76.95139172447811,
+    "city": "Unknown",
+    "potholes": 1,
+    "severity": "Low",
+    "confidence": 0.79,
+    "timestamp": "2026-07-03 00:42:45"
+  },
+  {
+    "image": "road_1.jpg",
+    "lat": 28.690885680528847,
+    "lon": 76.95151029298881,
+    "city": "Unknown",
+    "potholes": 1,
+    "severity": "Low",
+    "confidence": 0.79,
+    "timestamp": "2026-07-03 00:42:45"
+  },
+  {
+    "image": "road_1.jpg",
+    "lat": 28.690842025570266,
+    "lon": 76.95127783937734,
+    "city": "Unknown",
+    "potholes": 1,
+    "severity": "Low",
+    "confidence": 0.77,
+    "timestamp": "2026-07-03 00:42:45"
+  },
+  {
+    "image": "road_1.jpg",
+    "lat": 28.690433369891092,
+    "lon": 76.95103109551489,
+    "city": "Unknown",
+    "potholes": 1,
+    "severity": "Low",
+    "confidence": 0.77,
+    "timestamp": "2026-07-03 00:42:45"
+  },
+  {
+    "image": "road_1.jpg",
+    "lat": 28.69094888081988,
+    "lon": 76.95152831397985,
+    "city": "Unknown",
+    "potholes": 1,
+    "severity": "Low",
+    "confidence": 0.74,
+    "timestamp": "2026-07-03 00:42:45"
+  },
+  {
+    "image": "road_1.jpg",
+    "lat": 28.690806387223194,
+    "lon": 76.95131991187662,
+    "city": "Unknown",
+    "potholes": 1,
+    "severity": "Low",
+    "confidence": 0.7,
+    "timestamp": "2026-07-03 00:42:45"
+  },
+  {
+    "image": "road_1.jpg",
+    "lat": 28.69091050298242,
+    "lon": 76.95147490203335,
+    "city": "Unknown",
+    "potholes": 1,
+    "severity": "Low",
+    "confidence": 0.69,
+    "timestamp": "2026-07-03 00:42:45"
+  },
+  {
+    "image": "road_1.jpg",
+    "lat": 28.690866054566804,
+    "lon": 76.95148044747457,
+    "city": "Unknown",
+    "potholes": 1,
+    "severity": "Low",
+    "confidence": 0.53,
+    "timestamp": "2026-07-03 00:42:45"
+  },
+  {
+    "image": "road_1.jpg",
+    "lat": 28.690802025696637,
+    "lon": 76.95123374707485,
+    "city": "Unknown",
+    "potholes": 1,
+    "severity": "Low",
+    "confidence": 0.53,
+    "timestamp": "2026-07-03 00:42:45"
+  },
+  {
+    "image": "road_1.jpg",
+    "lat": 28.690905811274487,
+    "lon": 76.9514828583181,
+    "city": "Unknown",
+    "potholes": 1,
+    "severity": "Low",
+    "confidence": 0.43,
+    "timestamp": "2026-07-03 00:42:45"
+  },
+  {
+    "image": "road_1.jpg",
+    "lat": 28.69086893014274,
+    "lon": 76.95150154658772,
+    "city": "Unknown",
+    "potholes": 1,
+    "severity": "Low",
+    "confidence": 0.38,
+    "timestamp": "2026-07-03 00:42:45"
+  }
+]
